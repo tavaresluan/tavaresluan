@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tavaresluan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 meu chamo luan tavares
+- 👀 estou tentando aprender a  programar
+- 🌱 meu email  de contato e email  e luan.tavares.rodrigues@escola.pr.gov.br
+- 💞️ estou aprendendo java script e scrath
+- 
 
 <!---
 tavaresluan/tavaresluan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
