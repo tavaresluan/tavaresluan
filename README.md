@@ -1,7 +1,7 @@
-- 👋 meu chamo luan tavares
-- 👀 estou tentando aprender a  programar
-- 🌱 meu email  de contato e email  e luan.tavares.rodrigues@escola.pr.gov.br
-- 💞️ estou aprendendo java script e scrath
+- 👋 Me chamo LUAN TAVARES R.
+- 👀 Estou tentando aprender a  programar
+- 🌱 Meu email  de contato e email  e luan.tavares.rodrigues@escola.pr.gov.br
+- 💞️ Futuro ARQUITETO
 - 
 
 <!---
